@@ -1,0 +1,20 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\tranm\\Downloads\\gson-2.8.6.jar",
+    "c:\\Users\\tranm\\Downloads\\json-20200518.jar",
+    "c:\\Users\\tranm\\Downloads\\jsoup-1.15.3.jar",
+    "c:\\Users\\tranm\\Downloads\\json-simple-1.1.1.jar",
+    "c:\\Users\\tranm\\Downloads\\jackson-annotations-2.14.2.jar",
+    "c:\\Users\\tranm\\Downloads\\jackson-core-2.14.2.jar",
+    "c:\\Users\\tranm\\Downloads\\jackson-databind-2.14.2.jar",
+    "c:\\Users\\tranm\\Downloads\\javafx-sdk-19\\lib\\javafx.base.jar",
+    "c:\\Users\\tranm\\Downloads\\javafx-sdk-19\\lib\\javafx.controls.jar",
+    "c:\\Users\\tranm\\Downloads\\javafx-sdk-19\\lib\\javafx.fxml.jar",
+    "c:\\Users\\tranm\\Downloads\\javafx-sdk-19\\lib\\javafx.graphics.jar",
+    "c:\\Users\\tranm\\Downloads\\javafx-sdk-19\\lib\\javafx.media.jar",
+    "c:\\Users\\tranm\\Downloads\\javafx-sdk-19\\lib\\javafx.swing.jar",
+    "c:\\Users\\tranm\\Downloads\\javafx-sdk-19\\lib\\javafx.web.jar",
+    "c:\\Users\\tranm\\Downloads\\javafx-sdk-19\\lib\\javafx-swt.jar"
+  ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="696.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="DynastyTableController">
+   <children>
+      <TableView fx:id="table" layoutX="14.0" layoutY="14.0" prefHeight="370.0" prefWidth="502.0">
+        <columns>
+          <TableColumn fx:id="idColumn" prefWidth="45.5999755859375" text="ID" />
+          <TableColumn fx:id="nameColumn" prefWidth="217.60000610351562" text="Name" />
+            <TableColumn fx:id="KingnameColumn" prefWidth="113.5999755859375" text="King Name" />
+            <TableColumn fx:id="LunarColumn" prefWidth="127.20001220703125" text="Lunar Date" />
+        </columns>
+      </TableView>
+      <Button layoutX="537.0" layoutY="359.0" mnemonicParsing="false" onAction="#changeScreenBack" text="Trở lại" />
+      <Button layoutX="603.0" layoutY="359.0" mnemonicParsing="false" onAction="#changeScreentoDyDetail" text="Chi tiết" />
+      <HBox layoutX="528.0" layoutY="54.0" prefHeight="42.0" prefWidth="150.0">
+         <children>
+            <TextField fx:id="filterField" />
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>

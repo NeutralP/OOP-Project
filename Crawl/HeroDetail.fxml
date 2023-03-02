@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="606.0" prefWidth="719.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="HeroDetailController">
+   <children>
+      <ImageView fitHeight="606.0" fitWidth="814.0" layoutX="-35.0" opacity="0.34" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@Hai-Ba-Trung_500.jpg" />
+         </image>
+      </ImageView>
+      <Label alignment="CENTER" contentDisplay="CENTER" layoutX="225.0" layoutY="31.0" prefHeight="54.0" prefWidth="244.0" text="Các vị anh hùng">
+         <font>
+            <Font size="32.0" />
+         </font>
+      </Label>
+      <Label layoutX="30.0" layoutY="50.0" text="ID:" />
+      <Label fx:id="IdLabel" layoutX="61.0" layoutY="50.0" text="Label" />
+      <Label layoutX="26.0" layoutY="113.0" text="Tên:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Label fx:id="NameLabel" layoutX="61.0" layoutY="113.0" text="Label" />
+      <Label layoutX="213.0" layoutY="113.0" text="Thời gian:" />
+      <Label fx:id="DateLabel" layoutX="272.0" layoutY="113.0" text="Label" />
+      <Label layoutX="347.0" layoutY="113.0" text="Dân tộc:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Label fx:id="EthLabel" layoutX="408.0" layoutY="113.0" text="Label" />
+      <Label layoutX="26.0" layoutY="148.0" text="Năm được thả:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Label fx:id="ReleaseLabel" layoutX="123.0" layoutY="148.0" text="Label" />
+      <Label layoutX="213.0" layoutY="148.0" text="Nơi sinh:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Label fx:id="BirthLabel" layoutX="272.0" layoutY="148.0" text="Label" />
+      <Label layoutX="26.0" layoutY="182.0" text="Chiến tích:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Label fx:id="AchieveLabel" alignment="TOP_LEFT" layoutX="95.0" layoutY="182.0" prefHeight="62.0" prefWidth="579.0" text="Label" wrapText="true" />
+      <Label layoutX="26.0" layoutY="259.0" text="Mô tả:" />
+      <Label fx:id="DesLabel" alignment="TOP_LEFT" layoutX="74.0" layoutY="259.0" prefHeight="270.0" prefWidth="601.0" text="Label" wrapText="true" />
+      <Button layoutX="613.0" layoutY="538.0" mnemonicParsing="false" onAction="#changeScreenBacktoChar" text="Trở lại" />
+   </children>
+</AnchorPane>

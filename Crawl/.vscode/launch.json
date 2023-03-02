@@ -1,0 +1,103 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Launch Main21",
+            "request": "launch",
+            "mainClass": "Main21",
+            "projectName": "Crawl_63e3f49a",
+            "vmArgs": "--module-path C:/Users/tranm/Downloads/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch HistoricalKing2Crawl",
+            "request": "launch",
+            "mainClass": "crawl.HistoricalKing2Crawl",
+            "projectName": "Crawl_63e3f49a"
+        },
+        {
+            "type": "java",
+            "name": "Launch HistoricalKing2",
+            "request": "launch",
+            "mainClass": "crawl.HistoricalKing2",
+            "projectName": "Crawl_63e3f49a"
+        },
+        {
+            "type": "java",
+            "name": "Launch CrawlHero2",
+            "request": "launch",
+            "mainClass": "crawl.CrawlHero2",
+            "projectName": "Crawl_63e3f49a"
+        },
+        {
+            "type": "java",
+            "name": "Launch HistoricalSiteCrawl",
+            "request": "launch",
+            "mainClass": "crawl.HistoricalSiteCrawl",
+            "projectName": "Crawl_63e3f49a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Crawl_63e3f49a",
+            "vmArgs": "--module-path C:/Users/tranm/Downloads/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestRow",
+            "request": "launch",
+            "mainClass": "TestRow",
+            "projectName": "Crawl_63e3f49a",
+            "vmArgs": "--module-path C:/Users/tranm/Downloads/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml"
+        },
+        {
+            "type": "java",
+            "name": "Launch HistoricalDynastyCrawl",
+            "request": "launch",
+            "mainClass": "crawl.HistoricalDynastyCrawl",
+            "projectName": "Crawl_63e3f49a"
+        },
+        {
+            "type": "java",
+            "name": "Launch HistoricalKingCrawl",
+            "request": "launch",
+            "mainClass": "crawl.HistoricalKingCrawl",
+            "projectName": "Crawl_63e3f49a"
+        },
+        {
+            "type": "java",
+            "name": "Launch HistoricalPersonCrawl",
+            "request": "launch",
+            "mainClass": "crawl.HistoricalPersonCrawl",
+            "projectName": "Crawl_63e3f49a"
+        },
+        {
+            "type": "java",
+            "name": "Launch HistoryHeroCrawl",
+            "request": "launch",
+            "mainClass": "crawl.HistoryHeroCrawl",
+            "projectName": "Crawl_63e3f49a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "crawl.Main",
+            "projectName": "Crawl_63e3f49a",
+            "vmArgs": "--module-path C:/Users/tranm/Downloads/javafx-sdk-19/lib --add-modules javafx.controls,javafx.fxml"
+        }
+    ]
+}

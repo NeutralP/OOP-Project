@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="KingDetailController">
+   <children>
+      <ImageView fitHeight="418.0" fitWidth="624.0" opacity="0.47" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@quang%20trung.jpg" />
+         </image>
+      </ImageView>
+      <Label alignment="CENTER" layoutX="212.0" layoutY="31.0" prefHeight="67.0" prefWidth="176.0" text="Các vị vua">
+         <font>
+            <Font size="35.0" />
+         </font>
+      </Label>
+      <Label layoutX="29.0" layoutY="56.0" text="ID:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Label fx:id="IdLabel" layoutX="54.0" layoutY="56.0" text="Label" />
+      <Label layoutX="29.0" layoutY="118.0" text="Tên:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Label fx:id="NameLabel" layoutX="68.0" layoutY="118.0" text="Label" />
+      <Label layoutX="190.0" layoutY="118.0" text="Thời gian:">
+         <font>
+            <Font name="System Bold" size="12.0" />
+         </font></Label>
+      <Label fx:id="DateLabel" layoutX="262.0" layoutY="118.0" text="Label" />
+      <Label layoutX="33.0" layoutY="200.0" text="Niên hiệu:" />
+      <Label fx:id="NienhieuLabel" alignment="TOP_LEFT" layoutX="104.0" layoutY="200.0" prefHeight="38.0" prefWidth="461.0" text="Label" wrapText="true" />
+      <Label layoutX="32.0" layoutY="245.0" text="Miến hiệu:" />
+      <Label fx:id="MienhieuLabel" alignment="TOP_LEFT" layoutX="104.0" layoutY="245.0" prefHeight="45.0" prefWidth="462.0" text="Label" wrapText="true" />
+      <Label layoutX="33.0" layoutY="293.0" text="Thụy hiệu:" />
+      <Label fx:id="ThuyhieuLabel" alignment="TOP_LEFT" layoutX="104.0" layoutY="293.0" prefHeight="46.0" prefWidth="462.0" text="Label" wrapText="true" />
+      <Label layoutX="30.0" layoutY="160.0" text="Thời kỳ:" />
+      <Label fx:id="PeriodLabel" layoutX="86.0" layoutY="160.0" text="Label" />
+      <Button layoutX="515.0" layoutY="350.0" mnemonicParsing="false" onAction="#changeScreenBacktoChar" text="Trở lại" />
+   </children>
+</AnchorPane>

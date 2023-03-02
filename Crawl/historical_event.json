@@ -1,0 +1,1577 @@
+[
+    {
+        "name": "Văn hóa Soi Nhụ",
+        "startYear": "25.000 TCN",
+        "endYear": "7.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đá cũ",
+        "info": [],
+        "id": 716
+    },
+    {
+        "name": "Văn hóa Ngườm",
+        "startYear": "23.000 TCN",
+        "endYear": "23.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đá cũ",
+        "info": [],
+        "id": 717
+    },
+    {
+        "name": "Văn hóa Tràng An",
+        "startYear": "23.000 TCN",
+        "endYear": "1.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đá cũ",
+        "info": [],
+        "id": 718
+    },
+    {
+        "name": "Văn hóa Sơn Vi",
+        "startYear": "20.000 TCN",
+        "endYear": "12.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đá cũ",
+        "info": [],
+        "id": 719
+    },
+    {
+        "name": "Văn hóa Hòa Bình",
+        "startYear": "12.000 TCN",
+        "endYear": "10.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đá mới",
+        "info": [],
+        "id": 720
+    },
+    {
+        "name": "Văn hóa Bắc Sơn",
+        "startYear": "10.000 TCN",
+        "endYear": "10.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đá mới",
+        "info": [],
+        "id": 721
+    },
+    {
+        "name": "Văn hóa Quỳnh Văn",
+        "startYear": "8.000 TCN",
+        "endYear": "8.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đá mới",
+        "info": [],
+        "id": 722
+    },
+    {
+        "name": "Văn hóa Cái Bèo",
+        "startYear": "7.000 TCN",
+        "endYear": "7.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đá mới",
+        "info": [],
+        "id": 723
+    },
+    {
+        "name": "Văn hóa Đa Bút",
+        "startYear": "6.000 TCN",
+        "endYear": "6.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đá mới",
+        "info": [],
+        "id": 724
+    },
+    {
+        "name": "Văn hóa Hạ Long",
+        "startYear": "3.000 TCN",
+        "endYear": "1.500 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đồng đá",
+        "info": [],
+        "id": 725
+    },
+    {
+        "name": "Văn hóa Phùng Nguyên",
+        "startYear": "2.000 TCN",
+        "endYear": "1.500 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đồng đá",
+        "info": [],
+        "id": 726
+    },
+    {
+        "name": "Văn hóa Tiền Sa Huỳnh",
+        "startYear": "2.000 TCN",
+        "endYear": "1.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đồng đá",
+        "info": [],
+        "id": 727
+    },
+    {
+        "name": "Văn hóa Đồng Đậu",
+        "startYear": "1.500 TCN",
+        "endYear": "1.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đồng",
+        "info": [],
+        "id": 728
+    },
+    {
+        "name": "Văn hóa Gò Mun",
+        "startYear": "1.000 TCN",
+        "endYear": "1.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ đồng",
+        "info": [],
+        "id": 729
+    },
+    {
+        "name": "Văn hóa Sa Huỳnh",
+        "startYear": "1.000 TCN",
+        "endYear": "1.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ sắt",
+        "info": [],
+        "id": 730
+    },
+    {
+        "name": "Văn hóa Đồng Nai",
+        "startYear": "1.000 TCN",
+        "endYear": "1.000 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ sắt",
+        "info": [],
+        "id": 731
+    },
+    {
+        "name": "Văn hóa Đông Sơn",
+        "startYear": "700 TCN",
+        "endYear": "100 TCN",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ sắt",
+        "info": [],
+        "id": 732
+    },
+    {
+        "name": "Văn hóa Óc Eo",
+        "startYear": "1",
+        "endYear": "630",
+        "trieuDai": "Thời tiền sử",
+        "tieuTrieuDai": "Thời đại đồ sắt",
+        "info": [],
+        "id": 733
+    },
+    {
+        "name": "Thế kỉ VII  vua Hùng thành lập quốc gia Văn Lang",
+        "startYear": " TCN",
+        "endYear": " TCN",
+        "trieuDai": "Thời sơ sử",
+        "tieuTrieuDai": "Thời đại đồ sắt",
+        "info": [],
+        "id": 734
+    },
+    {
+        "name": "An Dương Vương thôn tính Văn Lang, thành lập quốc gia Âu Lạc",
+        "startYear": "207 TCN",
+        "endYear": "207 TCN",
+        "trieuDai": "Thời sơ sử",
+        "tieuTrieuDai": "Thời đại đồ sắt",
+        "info": [],
+        "id": 735
+    },
+    {
+        "name": "Chiến tranh TầnViệt",
+        "startYear": "218 TCN",
+        "endYear": "218 TCN",
+        "trieuDai": "Thời sơ sử",
+        "tieuTrieuDai": "Thời đại đồ sắt",
+        "info": [],
+        "id": 736
+    },
+    {
+        "name": "Triệu Đà xâm lược nước Âu Lạc, sáp nhập vào quốc gia Nam Việt",
+        "startYear": "179 TCN",
+        "endYear": "179 TCN",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Nam Việt",
+        "info": [],
+        "id": 737
+    },
+    {
+        "name": "Chiến tranh HánNam Việt",
+        "startYear": "111 TCN",
+        "endYear": "111 TCN",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Nam Việt",
+        "info": [],
+        "id": 738
+    },
+    {
+        "name": "nhà Hán thôn tính Nam Việt",
+        "startYear": "111 TCN",
+        "endYear": "111 TCN",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Hán",
+        "info": [],
+        "id": 739
+    },
+    {
+        "name": "khởi nghĩa Hai Bà Trưng, Trưng Trắc thành lập quốc gia Lĩnh Nam, kinh đô đặt tại Mê Linh",
+        "startYear": "40",
+        "endYear": "40",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Hán",
+        "info": [],
+        "id": 740
+    },
+    {
+        "name": "Chiến tranh Lĩnh Nam  Đông Hán",
+        "startYear": "42",
+        "endYear": "43",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Hán",
+        "info": [],
+        "id": 741
+    },
+    {
+        "name": "Đông Hán thôn tính Lĩnh Nam",
+        "startYear": "43",
+        "endYear": "43",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Hán",
+        "info": [],
+        "id": 742
+    },
+    {
+        "name": "Khởi nghĩa Chu Đạt",
+        "startYear": "156",
+        "endYear": "160",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Hán",
+        "info": [],
+        "id": 743
+    },
+    {
+        "name": "Khởi nghĩa Lương Long",
+        "startYear": "178",
+        "endYear": "181",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Hán",
+        "info": [],
+        "id": 744
+    },
+    {
+        "name": "Khu Liên khởi nghĩa, tách quận Nhật Nam thành lập quốc gia Lâm Ấp",
+        "startYear": "192",
+        "endYear": "192",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Hán",
+        "info": [],
+        "id": 745
+    },
+    {
+        "name": "23 tháng 6 Tôn Quyền xưng đế, lập nước Đông Ngô, ly khai nhà Hán",
+        "startYear": "229",
+        "endYear": "229",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Đông Ngô",
+        "info": [],
+        "id": 746
+    },
+    {
+        "name": "Khởi nghĩa Bà Triệu",
+        "startYear": "246",
+        "endYear": "248",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Đông Ngô",
+        "info": [],
+        "id": 747
+    },
+    {
+        "name": "Chiến tranh Tấn  Ngô",
+        "startYear": "280",
+        "endYear": "280",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Tấn",
+        "info": [],
+        "id": 748
+    },
+    {
+        "name": "Lưu Dụ ép Tấn Cung Đế nhường ngôi, lập ra nhà Lưu Tống",
+        "startYear": "420",
+        "endYear": "420",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Lưu Tống",
+        "info": [],
+        "id": 749
+    },
+    {
+        "name": "Thứ sử Giao Châu Đàn Hòa Chi đánh Lâm Ấp, cướp châu báu rút về",
+        "startYear": "436",
+        "endYear": "436",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Lưu Tống",
+        "info": [],
+        "id": 750
+    },
+    {
+        "name": "khởi nghĩa Lý Trường Nhân",
+        "startYear": "468",
+        "endYear": "485",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Lưu Tống",
+        "info": [],
+        "id": 751
+    },
+    {
+        "name": "Tiêu Đạo Thành phế Lưu Chuẩn tự làm vua, thành lập nhà Nam Tề",
+        "startYear": "479",
+        "endYear": "479",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Nam Tề",
+        "info": [],
+        "id": 752
+    },
+    {
+        "name": "Tiêu Diễn phế truất Tiêu Bảo Dung, thành lập nhà Lương",
+        "startYear": "502",
+        "endYear": "502",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Lương",
+        "info": [],
+        "id": 753
+    },
+    {
+        "name": "khởi nghĩa Lý Bí",
+        "startYear": "541",
+        "endYear": "541",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Lương",
+        "info": [],
+        "id": 754
+    },
+    {
+        "name": "Lý Bí thành lập quốc gia Vạn Xuân",
+        "startYear": "544",
+        "endYear": "544",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Lương",
+        "info": [],
+        "id": 755
+    },
+    {
+        "name": "Chiến tranh TùyVạn Xuân",
+        "startYear": "602",
+        "endYear": "602",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Tùy",
+        "info": [],
+        "id": 756
+    },
+    {
+        "name": "tháng 3 Lý Uyên tuyên bố thành lập nhà Đường",
+        "startYear": "618",
+        "endYear": "618",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Đường",
+        "info": [],
+        "id": 757
+    },
+    {
+        "name": "tháng 5 Lý Uyên ép Dương Hựu nhường ngôi",
+        "startYear": "618",
+        "endYear": "618",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Đường",
+        "info": [],
+        "id": 758
+    },
+    {
+        "name": "khởi nghĩa Lý Tự Tiên",
+        "startYear": "687",
+        "endYear": "687",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Đường",
+        "info": [],
+        "id": 759
+    },
+    {
+        "name": "khởi nghĩa Mai Hắc Đế",
+        "startYear": "713",
+        "endYear": "723",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Đường",
+        "info": [],
+        "id": 760
+    },
+    {
+        "name": "khởi nghĩa Phùng Hưng",
+        "startYear": "776",
+        "endYear": "791",
+        "trieuDai": "Thời Bắc thuộc",
+        "tieuTrieuDai": "Thuộc Đường",
+        "info": [],
+        "id": 761
+    },
+    {
+        "name": "Khúc Thừa Dụ xây dựng chính quyền tự chủ",
+        "startYear": "905",
+        "endYear": "905",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Tự chủ",
+        "info": [],
+        "id": 762
+    },
+    {
+        "name": "Trận Bạch Đằng, Ngô Quyền đánh bại quân Nam Hán trên sông Bạch Đằng",
+        "startYear": "938",
+        "endYear": "938",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Tự chủ",
+        "info": [],
+        "id": 763
+    },
+    {
+        "name": "Ngô Quyền xưng vương, kinh đô Cổ Loa",
+        "startYear": "939",
+        "endYear": "939",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Ngô",
+        "info": [],
+        "id": 764
+    },
+    {
+        "name": "Loạn  sứ quân",
+        "startYear": "944",
+        "endYear": "968",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Ngô",
+        "info": [],
+        "id": 765
+    },
+    {
+        "name": "Đinh Bộ Lĩnh xưng đế, thành lập quốc gia Đại Cồ Việt, kinh đô Hoa Lư",
+        "startYear": "968",
+        "endYear": "968",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Đinh",
+        "info": [],
+        "id": 766
+    },
+    {
+        "name": "Đinh Bộ Lĩnh cho đúc Thái Bình hưng bảo, đồng tiền đầu tiên của Việt Nam",
+        "startYear": "970",
+        "endYear": "970",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Đinh",
+        "info": [],
+        "id": 767
+    },
+    {
+        "name": "Đinh Bộ Lĩnh cùng con trai bị sát hại",
+        "startYear": "979",
+        "endYear": "979",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Đinh",
+        "info": [],
+        "id": 768
+    },
+    {
+        "name": "Lê Hoàn lên ngôi vua, thành lập nhà Tiền Lê",
+        "startYear": "980",
+        "endYear": "980",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Tiền Lê",
+        "info": [],
+        "id": 769
+    },
+    {
+        "name": "tháng 1 - tháng 4 Chiến tranh Tống - Việt",
+        "startYear": "981",
+        "endYear": "981",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Tiền Lê",
+        "info": [],
+        "id": 770
+    },
+    {
+        "name": "21 tháng 11 Lý Công Uẩn lên ngôi vua, thành lập nhà Lý",
+        "startYear": "1009",
+        "endYear": "1009",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lý",
+        "info": [],
+        "id": 771
+    },
+    {
+        "name": "Lý Công Uẩn dời đô về Thăng Long",
+        "startYear": "1010",
+        "endYear": "1010",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lý",
+        "info": [],
+        "id": 772
+    },
+    {
+        "name": "Lý Thánh Tông lên ngôi, đổi tên nước từ Đại Cồ Việt thành Đại Việt",
+        "startYear": "1054",
+        "endYear": "1054",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lý",
+        "info": [],
+        "id": 773
+    },
+    {
+        "name": "Chiến tranh ViệtChiêm, Đại Việt chiếm được  châu của Chiêm Thành",
+        "startYear": "1069",
+        "endYear": "1069",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lý",
+        "info": [],
+        "id": 774
+    },
+    {
+        "name": "Chiến tranh TốngViệt",
+        "startYear": "1075",
+        "endYear": "1077",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lý",
+        "info": [],
+        "id": 775
+    },
+    {
+        "name": "18 tháng 1 – 28 tháng 2 Trận Như Nguyệt, đẩy lùi quân xâm lược Tống",
+        "startYear": "1077",
+        "endYear": "1077",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lý",
+        "info": [],
+        "id": 776
+    },
+    {
+        "name": "10 tháng 1 Lý Chiêu Hoàng nhường ngôi cho Trần Cảnh, thành lập nhà Trần",
+        "startYear": "1226",
+        "endYear": "1226",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Trần",
+        "info": [],
+        "id": 777
+    },
+    {
+        "name": "Chiến tranh Nguyên MôngĐại Việt lần",
+        "startYear": "1258",
+        "endYear": "1258",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Trần",
+        "info": [],
+        "id": 778
+    },
+    {
+        "name": "Hội nghị Bình Than, triệu họp vương hầu, trăm quan",
+        "startYear": "1282",
+        "endYear": "1282",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Trần",
+        "info": [],
+        "id": 779
+    },
+    {
+        "name": "Hội nghị Diên Hồng, triệu họp bô lão cả nước",
+        "startYear": "1284",
+        "endYear": "1284",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Trần",
+        "info": [],
+        "id": 780
+    },
+    {
+        "name": "Chiến tranh Nguyên MôngĐại Việt lần",
+        "startYear": "1285",
+        "endYear": "1285",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Trần",
+        "info": [],
+        "id": 781
+    },
+    {
+        "name": "Chiến tranh Nguyên MôngĐại Việt lần",
+        "startYear": "1287",
+        "endYear": "1288",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Trần",
+        "info": [],
+        "id": 782
+    },
+    {
+        "name": "phát hành Thông Bảo hội sao theo chủ trương của Hồ Quý Ly, đây là tiền giấy đầu tiên của Việt Nam",
+        "startYear": "1396",
+        "endYear": "1396",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Trần",
+        "info": [],
+        "id": 783
+    },
+    {
+        "name": "Hồ Quý Ly ép Trần Thuận Tông dời đô về Tây Đô",
+        "startYear": "1397",
+        "endYear": "1397",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Trần",
+        "info": [],
+        "id": 784
+    },
+    {
+        "name": "22 tháng 3 Hồ Quý Ly lên ngôi, thành lập nhà Hồ, đổi tên nước thành Đại Ngu",
+        "startYear": "1400",
+        "endYear": "1400",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Hồ",
+        "info": [],
+        "id": 785
+    },
+    {
+        "name": "Chiến tranh ViệtChiêm",
+        "startYear": "1400",
+        "endYear": "1407",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Hồ",
+        "info": [],
+        "id": 786
+    },
+    {
+        "name": "Chiến tranh Đại NguĐại Minh",
+        "startYear": "1406",
+        "endYear": "1407",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Hồ",
+        "info": [],
+        "id": 787
+    },
+    {
+        "name": "2 tháng 10 Trần Ngỗi xưng Giản Định đế, lập nên nhà Hậu Trần",
+        "startYear": "1407",
+        "endYear": "1407",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Thuộc Minh",
+        "info": [],
+        "id": 788
+    },
+    {
+        "name": "nhà Hậu Trần bị nhà Minh đánh bại",
+        "startYear": "1413",
+        "endYear": "1413",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Thuộc Minh",
+        "info": [],
+        "id": 789
+    },
+    {
+        "name": "khởi nghĩa Lam Sơn",
+        "startYear": "1418",
+        "endYear": "1427",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Thuộc Minh",
+        "info": [],
+        "id": 790
+    },
+    {
+        "name": "29 tháng 4 Lê Lợi thành lập quốc gia Đại Việt, đặt kinh đô tại Đông Kinh",
+        "startYear": "1428",
+        "endYear": "1428",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê sơ",
+        "info": [],
+        "id": 791
+    },
+    {
+        "name": "Vụ án Lệ Chi viên",
+        "startYear": "1442",
+        "endYear": "1442",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê sơ",
+        "info": [],
+        "id": 792
+    },
+    {
+        "name": "Chính biến Thiên Hưng, Lê Thánh Tông lên ngôi",
+        "startYear": "1459",
+        "endYear": "1460",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê sơ",
+        "info": [],
+        "id": 793
+    },
+    {
+        "name": "Chiến tranh ViệtChiêm, miền bắc Chiêm Thành sáp nhập vào Đại Việt",
+        "startYear": "1471",
+        "endYear": "1471",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê sơ",
+        "info": [],
+        "id": 794
+    },
+    {
+        "name": "Chiến tranh Đại ViệtLan Xang",
+        "startYear": "1478",
+        "endYear": "1480",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê sơ",
+        "info": [],
+        "id": 795
+    },
+    {
+        "name": "biên soạn Luật Hồng Đức",
+        "startYear": "1483",
+        "endYear": "1483",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê sơ",
+        "info": [],
+        "id": 796
+    },
+    {
+        "name": "khởi nghĩa Trần Tuân",
+        "startYear": "1511",
+        "endYear": "1512",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê sơ",
+        "info": [],
+        "id": 797
+    },
+    {
+        "name": "khởi nghĩa Trần Cảo",
+        "startYear": "1516",
+        "endYear": "1521",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê sơ",
+        "info": [],
+        "id": 798
+    },
+    {
+        "name": "Khủng hoảng cuối nhà Lê sơ và nội chiến",
+        "startYear": "1516",
+        "endYear": "1526",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê sơ",
+        "info": [],
+        "id": 799
+    },
+    {
+        "name": "Mạc Đăng Dung ép Lê Cung Hoàng nhường ngôi, lập lên nhà Mạc",
+        "startYear": "1527",
+        "endYear": "1527",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Mạc",
+        "info": [],
+        "id": 800
+    },
+    {
+        "name": "Nguyễn Kim lập Lê Ninh làm vua, tái lập nhà Lê, đóng đô tại Vạn Lại",
+        "startYear": "1533",
+        "endYear": "1533",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Mạc",
+        "info": [],
+        "id": 801
+    },
+    {
+        "name": "Chiến tranh LêMạc",
+        "startYear": "1533",
+        "endYear": "1677",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Mạc",
+        "info": [],
+        "id": 802
+    },
+    {
+        "name": "nhà Lê trung hưng đánh bại nhà Mạc, lên nắm quyền điều hành đất nước",
+        "startYear": "1592",
+        "endYear": "1592",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê trung hưng",
+        "info": [],
+        "id": 803
+    },
+    {
+        "name": "Lê Thế Tông dời đô về Đông Kinh",
+        "startYear": "1597",
+        "endYear": "1597",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê trung hưng",
+        "info": [],
+        "id": 804
+    },
+    {
+        "name": "Nguyễn Hoàng vào trấn thủ Thuận Hóa",
+        "startYear": "1558",
+        "endYear": "1558",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê trung hưng",
+        "info": [],
+        "id": 805
+    },
+    {
+        "name": "Trịnh  Nguyễn phân tranh",
+        "startYear": "1627",
+        "endYear": "1672",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê trung hưng",
+        "info": [],
+        "id": 806
+    },
+    {
+        "name": "nhà Lê trung hưng đánh bại hoàn toàn nhà Mạc",
+        "startYear": "1683",
+        "endYear": "1683",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê trung hưng",
+        "info": [],
+        "id": 807
+    },
+    {
+        "name": "khởi nghĩa Tây Sơn",
+        "startYear": "1771",
+        "endYear": "1771",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê trung hưng",
+        "info": [],
+        "id": 808
+    },
+    {
+        "name": "chiến tranh Bình Nam",
+        "startYear": "1774",
+        "endYear": "1775",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê trung hưng",
+        "info": [],
+        "id": 809
+    },
+    {
+        "name": "Nguyễn Ánh xưng vương",
+        "startYear": "1777",
+        "endYear": "1777",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê trung hưng",
+        "info": [],
+        "id": 810
+    },
+    {
+        "name": "Nguyễn Nhạc phong Nguyễn Huệ làm Bắc Bình Vương",
+        "startYear": "1778",
+        "endYear": "1778",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê trung hưng",
+        "info": [],
+        "id": 811
+    },
+    {
+        "name": "19 tháng 1 – 20 tháng 1 Nguyễn Huệ phá tan quân Xiêm tại Rạch Gầm – Xoài Mút",
+        "startYear": "1785",
+        "endYear": "1785",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Lê trung hưng",
+        "info": [],
+        "id": 812
+    },
+    {
+        "name": "22 tháng 12 Nguyễn Huệ xưng đế, đặt niên hiệu Quang Trung, đặt kinh đô tại Phú Xuân",
+        "startYear": "1788",
+        "endYear": "1788",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Tây Sơn",
+        "info": [],
+        "id": 813
+    },
+    {
+        "name": "Trận Ngọc Hồi  Đống Đa, đẩy lui quân xâm lược nhà Thanh, nhà Hậu Lê sụp đổ",
+        "startYear": "1789",
+        "endYear": "1789",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Tây Sơn",
+        "info": [],
+        "id": 814
+    },
+    {
+        "name": "16 tháng 9 Nguyễn Huệ qua đời, con trai Nguyễn Quang Toản lên ngôi",
+        "startYear": "1792",
+        "endYear": "1792",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Tây Sơn",
+        "info": [],
+        "id": 815
+    },
+    {
+        "name": "Nguyễn Ánh đánh bại nhà Tây Sơn, lên ngôi vua, đặt niên hiệu là Gia Long, lập lên nhà Nguyễn, đặt kinh đô tại Phú Xuân",
+        "startYear": "1802",
+        "endYear": "1802",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Nguyễn",
+        "info": [],
+        "id": 816
+    },
+    {
+        "name": "Nổi dậy Đá Vách",
+        "startYear": "1803",
+        "endYear": "1855",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Nguyễn",
+        "info": [],
+        "id": 817
+    },
+    {
+        "name": "Nguyễn Ánh đổi tên nước thành Việt Nam",
+        "startYear": "1804",
+        "endYear": "1804",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Nguyễn",
+        "info": [],
+        "id": 818
+    },
+    {
+        "name": "Khởi nghĩa Phan Bá Vành",
+        "startYear": "1821",
+        "endYear": "1827",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Nguyễn",
+        "info": [],
+        "id": 819
+    },
+    {
+        "name": "Chiến tranh ViệtXiêm",
+        "startYear": "1833",
+        "endYear": "1834",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Nguyễn",
+        "info": [],
+        "id": 820
+    },
+    {
+        "name": "Việt Nam thôn tính Chân Lạp, đặt làm Trấn Tây Thành",
+        "startYear": "1836",
+        "endYear": "1836",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Nguyễn",
+        "info": [],
+        "id": 821
+    },
+    {
+        "name": "15 tháng 2 Minh Mạng đổi tên nước thành Đại Nam",
+        "startYear": "1839",
+        "endYear": "1839",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Nguyễn",
+        "info": [],
+        "id": 822
+    },
+    {
+        "name": "rút quân khỏi Trấn Tây Thành, Xiêm đặt Ang Duong lên ngôi, tái lập Chân Lạp",
+        "startYear": "1841",
+        "endYear": "1841",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Nguyễn",
+        "info": [],
+        "id": 823
+    },
+    {
+        "name": "Chiến tranh PhápĐại Nam",
+        "startYear": "1858",
+        "endYear": "1884",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Nguyễn",
+        "info": [],
+        "id": 824
+    },
+    {
+        "name": "Bạo loạn ven biển",
+        "startYear": "1861",
+        "endYear": "1865",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Nguyễn",
+        "info": [],
+        "id": 825
+    },
+    {
+        "name": "Chính biến chày vôi",
+        "startYear": "1866",
+        "endYear": "1866",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Nguyễn",
+        "info": [],
+        "id": 826
+    },
+    {
+        "name": "nhà Nguyễn cắt Nam Kỳ lục tỉnh nhượng cho Pháp",
+        "startYear": "1867",
+        "endYear": "1867",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Nhà Nguyễn",
+        "info": [],
+        "id": 827
+    },
+    {
+        "name": "6 tháng 6 Hòa ước Giáp Thân, kết thúc Chiến tranh Pháp–Đại Nam, triều đình nhà Nguyễn chấp nhận sự bảo hộ của Pháp",
+        "startYear": "1884",
+        "endYear": "1884",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 828
+    },
+    {
+        "name": "phong trào Cần Vương",
+        "startYear": "1885",
+        "endYear": "1895",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 829
+    },
+    {
+        "name": "17 tháng 10 thực dân Pháp thành lập Liên bang Đông Dương, gồm Bắc Kỳ, Trung Kỳ, Nam Kỳ và Campuchia, đặt thủ đô tại Sài Gòn",
+        "startYear": "1887",
+        "endYear": "1887",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 830
+    },
+    {
+        "name": "3 tháng 10 sáp nhập Lào vào Liên bang Đông Dương",
+        "startYear": "1893",
+        "endYear": "1893",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 831
+    },
+    {
+        "name": "12 tháng 4 sáp nhập Quảng Châu Loan vào Liên bang Đông Dương",
+        "startYear": "1898",
+        "endYear": "1898",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 832
+    },
+    {
+        "name": "Liên bang Đông Dương dời thủ đô về Hà Nội",
+        "startYear": "1902",
+        "endYear": "1902",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 833
+    },
+    {
+        "name": "phong trào Duy Tân",
+        "startYear": "1906",
+        "endYear": "1908",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 834
+    },
+    {
+        "name": "phong trào chống sưu thuế Trung Kỳ",
+        "startYear": "1908",
+        "endYear": "1908",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 835
+    },
+    {
+        "name": "khoảng  người Việt bị ép sang châu Âu chiến đấu cho Pháp trong Chiến tranh thế giới thứ nhất",
+        "startYear": "1914",
+        "endYear": "1918",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 836
+    },
+    {
+        "name": "khởi nghĩa Thái Nguyên",
+        "startYear": "1917",
+        "endYear": "1917",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 837
+    },
+    {
+        "name": "18 tháng 6 Nguyễn Ái Quốc gửi Yêu sách của nhân dân An Nam tới Hội nghị Hòa bình Versailles",
+        "startYear": "1919",
+        "endYear": "1919",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 838
+    },
+    {
+        "name": "3 tháng 2 hợp nhất ba tổ chức cộng sản thành Đảng Cộng sản Việt Nam",
+        "startYear": "1930",
+        "endYear": "1930",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 839
+    },
+    {
+        "name": "phong trào Xô Viết Nghệ Tĩnh",
+        "startYear": "1930",
+        "endYear": "1931",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 840
+    },
+    {
+        "name": "khoảng  thanh niên Việt Nam bị cưỡng bức phục vụ Pháp trong chiến tranh thế giới thứ hai",
+        "startYear": "1939",
+        "endYear": "1939",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 841
+    },
+    {
+        "name": "30 tháng 8 quân đội Nhật Bản tiến vào Đông Dương",
+        "startYear": "1940",
+        "endYear": "1940",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 842
+    },
+    {
+        "name": "25 tháng 9 chính phủ Pháp chấp nhận mọi yêu sách, chấp nhận việc chiếm đóng cùng giao quyền điều hành những căn cứ quân sự cho quân đội Nhật",
+        "startYear": "1940",
+        "endYear": "1940",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 843
+    },
+    {
+        "name": "22 tháng 12 Việt Nam Tuyên truyền Giải phóng quân được thành lập",
+        "startYear": "1944",
+        "endYear": "1944",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 844
+    },
+    {
+        "name": "tháng 3 Nhật đảo chính thực dân Pháp",
+        "startYear": "1945",
+        "endYear": "1945",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 845
+    },
+    {
+        "name": "11 tháng 3 thành lập Đế quốc Việt Nam, phụ thuộc Đế quốc Nhật Bản",
+        "startYear": "1945",
+        "endYear": "1945",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 846
+    },
+    {
+        "name": "14 tháng 8 - 30 tháng 8 cách mạng tháng Tám",
+        "startYear": "1945",
+        "endYear": "1945",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 847
+    },
+    {
+        "name": "23 tháng 8 Đế quốc Việt Nam sụp đổ",
+        "startYear": "1945",
+        "endYear": "1945",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 848
+    },
+    {
+        "name": "30 tháng 8 Bảo Đại thoái vị",
+        "startYear": "1945",
+        "endYear": "1945",
+        "trieuDai": "Thời phong kiến độc lập",
+        "tieuTrieuDai": "Pháp thuộc",
+        "info": [],
+        "id": 849
+    },
+    {
+        "name": "2 tháng 9 Hồ Chí Minh tuyên bố độc lập, thành lập nước Việt Nam Dân chủ Cộng hòa",
+        "startYear": "1945",
+        "endYear": "1945",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 850
+    },
+    {
+        "name": "8 tháng 9 phát động phong trào Bình dân học vụ",
+        "startYear": "1945",
+        "endYear": "1945",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 851
+    },
+    {
+        "name": "23 tháng 9 quân Pháp nổ súng tại Sài Gòn, bắt đầu cuộc chiến tranh xâm lược Việt Nam lần 2",
+        "startYear": "1945",
+        "endYear": "1945",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 852
+    },
+    {
+        "name": "23 tháng 9 Trần Văn Giàu kêu gọi Nam Bộ kháng chiến",
+        "startYear": "1945",
+        "endYear": "1945",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 853
+    },
+    {
+        "name": "6 tháng 1 Tổng tuyển cử bầu Quốc hội đầu tiên",
+        "startYear": "1946",
+        "endYear": "1946",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 854
+    },
+    {
+        "name": "26 tháng 3 Pháp lập nên Cộng hòa Tự trị Nam Kỳ thuộc Liên hiệp Pháp, thủ đô Sài Gòn",
+        "startYear": "1946",
+        "endYear": "1946",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 855
+    },
+    {
+        "name": "14 tháng 9 Tạm ước Việt - Pháp",
+        "startYear": "1946",
+        "endYear": "1946",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 856
+    },
+    {
+        "name": "19 tháng 12 Hồ Chí Minh kêu gọi Toàn quốc kháng chiến",
+        "startYear": "1946",
+        "endYear": "1946",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 857
+    },
+    {
+        "name": "7 tháng 10 - 22 tháng 12 Chiến dịch Việt Bắc Thu - Đông 1947",
+        "startYear": "1947",
+        "endYear": "1947",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 858
+    },
+    {
+        "name": "14 tháng 6 Pháp lập nên Quốc gia Việt Nam, quốc trưởng Bảo Đại, thủ đô Sài Gòn",
+        "startYear": "1949",
+        "endYear": "1949",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 859
+    },
+    {
+        "name": "8 tháng 5 Mỹ bắt đầu can thiệp quân sự vào Việt Nam",
+        "startYear": "1950",
+        "endYear": "1950",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 860
+    },
+    {
+        "name": "16 tháng 9–17 tháng 10 Chiến dịch Biên giới",
+        "startYear": "1950",
+        "endYear": "1950",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 861
+    },
+    {
+        "name": "13 tháng 3 - 7 tháng 5 Chiến dịch Điện Biên Phủ",
+        "startYear": "1954",
+        "endYear": "1954",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 862
+    },
+    {
+        "name": "20 tháng 7 Hiệp định Genève, Pháp rút quân khỏi Việt Nam và đất nước bị chia cắt",
+        "startYear": "1954",
+        "endYear": "1954",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 863
+    },
+    {
+        "name": "10 tháng 10 Giải phóng Thủ đô",
+        "startYear": "1954",
+        "endYear": "1954",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 864
+    },
+    {
+        "name": "Ngô Đình Diệm phế truất Bảo Đại, lên làm Tổng thống, lập nên Việt Nam Cộng hòa",
+        "startYear": "1955",
+        "endYear": "1955",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 865
+    },
+    {
+        "name": "Phong trào Đồng khởi",
+        "startYear": "1959",
+        "endYear": "1960",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 866
+    },
+    {
+        "name": "20 tháng 12 thành lập Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+        "startYear": "1960",
+        "endYear": "1960",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 867
+    },
+    {
+        "name": "15 tháng 12 thành lập Quân Giải phóng miền Nam Việt Nam",
+        "startYear": "1961",
+        "endYear": "1961",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 868
+    },
+    {
+        "name": "chiến dịch Chiến tranh đặc biệt",
+        "startYear": "1961",
+        "endYear": "1965",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 869
+    },
+    {
+        "name": "đảo chính lật đổ chính quyền Ngô Đình Diệm",
+        "startYear": "1963",
+        "endYear": "1963",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 870
+    },
+    {
+        "name": "8 tháng 3 Mỹ bắt đầu đưa quân vào tham chiến tại miền Nam Việt Nam",
+        "startYear": "1965",
+        "endYear": "1965",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 871
+    },
+    {
+        "name": "chiến dịch Chiến tranh cục bộ",
+        "startYear": "1965",
+        "endYear": "1968",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 872
+    },
+    {
+        "name": "chiến dịch Việt Nam hóa chiến tranh",
+        "startYear": "1968",
+        "endYear": "1973",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 873
+    },
+    {
+        "name": "8 tháng 6 thành lập Cộng hòa Miền Nam Việt Nam, thủ đô Tây Ninh",
+        "startYear": "1969",
+        "endYear": "1969",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 874
+    },
+    {
+        "name": "2 tháng 9 Chủ tịch Hồ Chí Minh từ trần",
+        "startYear": "1969",
+        "endYear": "1969",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 875
+    },
+    {
+        "name": "18 tháng 12 - 30 tháng 12 Chiến dịch Điện Biên Phủ trên không",
+        "startYear": "1972",
+        "endYear": "1972",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 876
+    },
+    {
+        "name": "27 tháng 1 Hiệp định Paris, Mỹ rút quân khỏi Việt Nam",
+        "startYear": "1973",
+        "endYear": "1973",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 877
+    },
+    {
+        "name": "26 tháng 4 - 2 tháng 5 Chiến dịch Hồ Chí Minh",
+        "startYear": "1975",
+        "endYear": "1975",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 878
+    },
+    {
+        "name": "30 tháng 4 chính phủ Việt Nam Cộng hòa đầu hàng vô điều kiện Cộng hòa Miền Nam Việt Nam",
+        "startYear": "1975",
+        "endYear": "1975",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Việt Nam Dân chủ Cộng hòa",
+        "info": [],
+        "id": 879
+    },
+    {
+        "name": "2 tháng 7 thống nhất đất nước, đổi tên nước thành Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "startYear": "1976",
+        "endYear": "1976",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "info": [],
+        "id": 880
+    },
+    {
+        "name": "20 tháng 9 gia nhập Liên Hợp Quốc",
+        "startYear": "1977",
+        "endYear": "1977",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "info": [],
+        "id": 881
+    },
+    {
+        "name": "chiến tranh biên giới Tây Nam",
+        "startYear": "1975",
+        "endYear": "1979",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "info": [],
+        "id": 882
+    },
+    {
+        "name": "chiến tranh biên giới phía Bắc",
+        "startYear": "1979",
+        "endYear": "1979",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "info": [],
+        "id": 883
+    },
+    {
+        "name": "Đổi Mới",
+        "startYear": "1986",
+        "endYear": "1986",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "info": [],
+        "id": 884
+    },
+    {
+        "name": "7 tháng 11 bình thường hóa quan hệ với Trung Quốc",
+        "startYear": "1991",
+        "endYear": "1991",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "info": [],
+        "id": 885
+    },
+    {
+        "name": "11 tháng 7 bình thường hóa quan hệ với Mỹ",
+        "startYear": "1995",
+        "endYear": "1995",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "info": [],
+        "id": 886
+    },
+    {
+        "name": "28 tháng 7 gia nhập ASEAN",
+        "startYear": "1995",
+        "endYear": "1995",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "info": [],
+        "id": 887
+    },
+    {
+        "name": "14 tháng 11 gia nhập APEC",
+        "startYear": "1998",
+        "endYear": "1998",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "info": [],
+        "id": 888
+    },
+    {
+        "name": "11 tháng 1 gia nhập WTO",
+        "startYear": "2007",
+        "endYear": "2007",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "info": [],
+        "id": 889
+    },
+    {
+        "name": "Đại dịch COVID",
+        "startYear": "2020",
+        "endYear": "2022",
+        "trieuDai": "Thời hiện đại",
+        "tieuTrieuDai": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+        "info": [],
+        "id": 890
+    }
+]
